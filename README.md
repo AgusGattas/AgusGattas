@@ -9,8 +9,6 @@ Hi 👋, I'm Agustin
 
 📄 Know about my experiences www.linkedin.com/in/agustin-gattas-689b3723b
 
-Connect with me:
-salvador aguirre
 
 Languages and Tools:
-angular bootstrap csharp css3 dotnet html5 java javascript mssql photoshop postgresql postman spring typescript
+angular , bootstrap , csharp , css3 , html5 , java , javascript , sqlserver , mongodb , python
