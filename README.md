@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**AgusGattas/AgusGattas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋, I'm Agustin
 
-Here are some ideas to get you started:
+🔭 I’m a Junior Fullstack developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 I am studying in the National Technological University
+
+📫 How to reach me agusgattasrp@gmail.com
+
+📄 Know about my experiences www.linkedin.com/in/agustin-gattas-689b3723b
+
+Connect with me:
+salvador aguirre
+
+Languages and Tools:
+angular bootstrap csharp css3 dotnet html5 java javascript mssql photoshop postgresql postman spring typescript
