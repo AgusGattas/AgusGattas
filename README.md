@@ -1,15 +1,14 @@
 <div align="center">
-<h1 align="center">Hola, soy Agustin 👋</h1>
+<h1 align="center">Hi, I'm Agustin 👋</h1>
 </div>
 
 
-## Sobre mi
+## About me
 
 
 - 🔭 I’m a Junior Fullstack developer 
 - 📚 I am studying in the National Technological University
 - 📫 How to reach me agusgattasrp@gmail.com
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
 - 📄 Know about my experiences www.linkedin.com/in/agustin-gattas-689b3723b
 
 <br>
