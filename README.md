@@ -6,7 +6,7 @@
 ## About me
 
 
-- 🔭 I’m a Junior Fullstack developer 
+- 🔭 I’m a Fullstack developer 
 - 📚 I am studying in the National Technological University
 - 📫 How to reach me agusgattasrp@gmail.com
 - 📄 Know about my experiences www.linkedin.com/in/agustin-gattas-689b3723b
